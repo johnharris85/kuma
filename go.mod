@@ -39,7 +39,7 @@ require (
 	github.com/prometheus/common v0.31.1
 	github.com/prometheus/prometheus v0.0.0-00010101000000-000000000000
 	github.com/sethvargo/go-retry v0.1.0
-	github.com/slok/go-http-metrics v0.9.0
+	github.com/slok/go-http-metrics v0.10.0
 	github.com/soheilhy/cmux v0.1.5
 	github.com/spf13/cobra v1.2.1
 	github.com/spiffe/go-spiffe v0.0.0-20190820222348-6adcf1eecbcc
@@ -47,8 +47,8 @@ require (
 	github.com/spiffe/spire/proto/spire v0.12.0 // indirect
 	go.uber.org/multierr v1.7.0
 	go.uber.org/zap v1.19.1
-	golang.org/x/net v0.0.0-20210614182718-04defd469f4e
-	golang.org/x/sys v0.0.0-20210817190340-bfb29a6856f2
+	golang.org/x/net v0.0.0-20210913180222-943fd674d43e
+	golang.org/x/sys v0.0.0-20210910150752-751e447fb3d0
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
 	google.golang.org/genproto v0.0.0-20210726143408-b02e89920bf0
 	google.golang.org/grpc v1.41.0
