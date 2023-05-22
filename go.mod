@@ -4,7 +4,7 @@ module github.com/kumahq/kuma
 go 1.20
 
 require (
-	cirello.io/pglock v1.11.0
+	cirello.io/pglock v1.12.0
 	github.com/Masterminds/semver/v3 v3.2.1
 	github.com/Masterminds/sprig/v3 v3.2.3
 	github.com/Nordix/simple-ipam v1.0.0
@@ -58,7 +58,7 @@ require (
 	go.uber.org/zap v1.24.0
 	golang.org/x/exp v0.0.0-20230124195608-d38c7dcee874
 	golang.org/x/net v0.10.0
-	golang.org/x/sync v0.1.0 // indirect
+	golang.org/x/sync v0.2.0 // indirect
 	golang.org/x/sys v0.8.0
 	golang.org/x/text v0.9.0
 	golang.org/x/time v0.3.0
